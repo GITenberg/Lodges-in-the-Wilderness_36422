@@ -1,0 +1,28 @@
+_repo: Lodges-in-the-Wilderness_36422
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scully, W. C. (William Charles)
+    alias: Scully, William Charles
+    birthdate: 1855
+    deathdate: 1943
+    gutenberg_agent_id: '6225'
+    url: http://www.gutenberg.org/2009/agents/6225
+description: ''
+gutenberg_issued: '2011-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Description and travel'
+- !lcsh 'Natural history -- South Africa'
+- !lcc 'DT'
+title: Lodges in the Wilderness
+url: http://www.gutenberg.org/ebooks/36422
